@@ -1,0 +1,15 @@
+@import url("./reset.css");
+@import url("./header.css");
+@import url("./section-1.css");
+@import url("./section-2.css");
+@import url("./section-3.css");
+@import url("./section-4.css");
+@import url("./footer.css");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+background-color: #F5F5F5;
+max-width: 1280px !important;
+}
+
